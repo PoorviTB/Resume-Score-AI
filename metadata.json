@@ -1,0 +1,6 @@
+{
+  "name": "ResumeScore AI - Intelligent ATS Resume Grader & Optimizer",
+  "description": "AI-powered resume scoring and optimization platform with instant ATS rating, impact analysis, keyword gap detection, and Google XYZ bullet re-writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
